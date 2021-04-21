@@ -1,4 +1,4 @@
-package com.cod;
+package com.code;
 
 public class Main {
 

@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="hello world:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hello_world_jar</output-path>
+    <root id="root">
+      <element id="archive" name="hello world.jar">
+        <element id="module-output" name="hello world" />
+      </element>
+    </root>
+  </artifact>
+</component>
