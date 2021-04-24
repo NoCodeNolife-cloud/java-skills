@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="The integer types:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/The_integer_types_jar</output-path>
+    <root id="root">
+      <element id="archive" name="The integer types.jar">
+        <element id="module-output" name="The integer types" />
+      </element>
+    </root>
+  </artifact>
+</component>
