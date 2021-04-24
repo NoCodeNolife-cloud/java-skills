@@ -6,10 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7351502e-f56d-4ccc-8751-2b3294d587e7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="7351502e-f56d-4ccc-8751-2b3294d587e7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +85,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -117,6 +114,7 @@
       <updated>1618932815208</updated>
       <workItem from="1618932817647" duration="761000" />
       <workItem from="1619174724132" duration="495000" />
+      <workItem from="1619243473191" duration="300000" />
     </task>
     <servers />
   </component>
