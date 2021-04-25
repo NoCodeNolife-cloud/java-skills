@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Unary arithmetic operator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Unary_arithmetic_operator_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Unary arithmetic operator.jar">
+        <element id="module-output" name="Unary arithmetic operator" />
+      </element>
+    </root>
+  </artifact>
+</component>

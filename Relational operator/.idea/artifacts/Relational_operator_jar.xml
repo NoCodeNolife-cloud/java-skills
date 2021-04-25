@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Relational operator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Relational_operator_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Relational operator.jar">
+        <element id="module-output" name="Relational operator" />
+      </element>
+    </root>
+  </artifact>
+</component>

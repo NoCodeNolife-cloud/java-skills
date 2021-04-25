@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Logical operator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Logical_operator_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Logical operator.jar">
+        <element id="module-output" name="Logical operator" />
+      </element>
+    </root>
+  </artifact>
+</component>

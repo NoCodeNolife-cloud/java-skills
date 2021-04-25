@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Reference data type:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Reference_data_type_jar</output-path>
+    <root id="archive" name="Reference data type.jar">
+      <element id="module-output" name="Reference data type" />
+    </root>
+  </artifact>
+</component>
