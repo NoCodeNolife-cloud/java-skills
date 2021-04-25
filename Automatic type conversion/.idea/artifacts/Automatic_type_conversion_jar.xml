@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Automatic type conversion:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Automatic_type_conversion_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Automatic type conversion.jar">
+        <element id="module-output" name="Automatic type conversion" />
+      </element>
+    </root>
+  </artifact>
+</component>

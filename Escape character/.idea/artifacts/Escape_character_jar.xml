@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Escape character:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Escape_character_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Escape character.jar">
+        <element id="module-output" name="Escape character" />
+      </element>
+    </root>
+  </artifact>
+</component>

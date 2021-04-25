@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Floating point types:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Floating_point_types_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Floating point types.jar">
+        <element id="module-output" name="Floating point types" />
+      </element>
+    </root>
+  </artifact>
+</component>
