@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Irregular array:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Irregular_array_jar</output-path>
+    <root id="archive" name="Irregular array.jar">
+      <element id="module-output" name="Irregular array" />
+    </root>
+  </artifact>
+</component>

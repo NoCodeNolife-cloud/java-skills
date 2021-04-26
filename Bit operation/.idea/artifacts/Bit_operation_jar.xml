@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Bit operation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Bit_operation_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Bit operation.jar">
+        <element id="module-output" name="Bit operation" />
+      </element>
+    </root>
+  </artifact>
+</component>

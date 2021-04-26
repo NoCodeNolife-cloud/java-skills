@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="circle continue:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/circle_continue_jar</output-path>
+    <root id="root">
+      <element id="archive" name="circle continue.jar">
+        <element id="module-output" name="circle continue" />
+      </element>
+    </root>
+  </artifact>
+</component>

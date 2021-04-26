@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="cycle break:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cycle_break_jar</output-path>
+    <root id="root">
+      <element id="archive" name="cycle break.jar">
+        <element id="module-output" name="cycle break" />
+      </element>
+    </root>
+  </artifact>
+</component>

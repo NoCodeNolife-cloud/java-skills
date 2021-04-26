@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="if else:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/if_else_jar</output-path>
+    <root id="root">
+      <element id="archive" name="if else.jar">
+        <element id="module-output" name="if else" />
+      </element>
+    </root>
+  </artifact>
+</component>

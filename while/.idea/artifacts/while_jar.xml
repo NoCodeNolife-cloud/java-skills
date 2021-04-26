@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="while:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/while_jar</output-path>
+    <root id="root">
+      <element id="archive" name="while.jar">
+        <element id="module-output" name="while" />
+      </element>
+    </root>
+  </artifact>
+</component>
