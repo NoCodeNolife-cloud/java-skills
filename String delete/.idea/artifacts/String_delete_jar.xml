@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="String delete:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/String_delete_jar</output-path>
+    <root id="root">
+      <element id="archive" name="String delete.jar">
+        <element id="module-output" name="String delete" />
+      </element>
+    </root>
+  </artifact>
+</component>

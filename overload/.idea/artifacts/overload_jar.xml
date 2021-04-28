@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="overload:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/overload_jar</output-path>
+    <root id="archive" name="overload.jar">
+      <element id="module-output" name="overload" />
+    </root>
+  </artifact>
+</component>

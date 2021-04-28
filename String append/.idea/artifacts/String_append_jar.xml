@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="String append:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/String_append_jar</output-path>
+    <root id="root">
+      <element id="archive" name="String append.jar">
+        <element id="module-output" name="String append" />
+      </element>
+    </root>
+  </artifact>
+</component>

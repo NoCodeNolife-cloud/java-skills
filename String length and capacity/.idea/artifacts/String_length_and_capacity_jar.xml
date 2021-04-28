@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="String length and capacity:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/String_length_and_capacity_jar</output-path>
+    <root id="root">
+      <element id="archive" name="String length and capacity.jar">
+        <element id="module-output" name="String length and capacity" />
+      </element>
+    </root>
+  </artifact>
+</component>
