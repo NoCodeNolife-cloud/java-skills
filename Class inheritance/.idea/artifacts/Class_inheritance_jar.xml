@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Class inheritance:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Class_inheritance_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Class inheritance.jar">
+        <element id="module-output" name="Class inheritance" />
+      </element>
+    </root>
+  </artifact>
+</component>

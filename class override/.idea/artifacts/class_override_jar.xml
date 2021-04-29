@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="class override:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/class_override_jar</output-path>
+    <root id="root">
+      <element id="archive" name="class override.jar">
+        <element id="module-output" name="class override" />
+      </element>
+    </root>
+  </artifact>
+</component>

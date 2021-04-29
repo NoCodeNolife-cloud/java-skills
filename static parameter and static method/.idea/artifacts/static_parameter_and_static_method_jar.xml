@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="static parameter and static method:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/static_parameter_and_static_method_jar</output-path>
+    <root id="root">
+      <element id="archive" name="static parameter and static method.jar">
+        <element id="module-output" name="static parameter and static method" />
+      </element>
+    </root>
+  </artifact>
+</component>

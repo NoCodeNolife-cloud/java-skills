@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="class inherit super:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/class_inherit_super_jar</output-path>
+    <root id="root">
+      <element id="archive" name="class inherit super.jar">
+        <element id="module-output" name="class inherit super" />
+      </element>
+    </root>
+  </artifact>
+</component>
