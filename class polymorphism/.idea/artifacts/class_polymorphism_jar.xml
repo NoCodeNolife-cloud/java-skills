@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="class polymorphism:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/class_polymorphism_jar</output-path>
+    <root id="root">
+      <element id="archive" name="class polymorphism.jar">
+        <element id="module-output" name="class polymorphism" />
+      </element>
+    </root>
+  </artifact>
+</component>
