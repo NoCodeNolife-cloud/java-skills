@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Enum:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Enum_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Enum.jar">
+        <element id="module-output" name="Enum" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="class equals:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/class_equals_jar</output-path>
+    <root id="archive" name="class equals.jar">
+      <element id="module-output" name="class equals" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Static inner class:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Static_inner_class_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Static inner class.jar">
+        <element id="module-output" name="Static inner class" />
+      </element>
+    </root>
+  </artifact>
+</component>

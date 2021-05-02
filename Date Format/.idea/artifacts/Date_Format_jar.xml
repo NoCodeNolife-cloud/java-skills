@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Date Format:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Date_Format_jar</output-path>
+    <root id="archive" name="Date Format.jar">
+      <element id="module-output" name="Date Format" />
+    </root>
+  </artifact>
+</component>

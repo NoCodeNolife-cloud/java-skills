@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="interface multiple inheritance:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/interface_multiple_inheritance_jar</output-path>
+    <root id="archive" name="interface multiple inheritance.jar">
+      <element id="module-output" name="interface multiple inheritance" />
+    </root>
+  </artifact>
+</component>

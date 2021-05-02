@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LocalDate  LocalTime LocalDateTime:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LocalDate__LocalTime_LocalDateTime_jar</output-path>
+    <root id="archive" name="LocalDate  LocalTime LocalDateTime.jar">
+      <element id="module-output" name="LocalDate  LocalTime LocalDateTime" />
+    </root>
+  </artifact>
+</component>

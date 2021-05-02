@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BigInteger:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BigInteger_jar</output-path>
+    <root id="archive" name="BigInteger.jar">
+      <element id="module-output" name="BigInteger" />
+    </root>
+  </artifact>
+</component>

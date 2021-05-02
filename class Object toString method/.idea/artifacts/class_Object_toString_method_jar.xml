@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="class Object toString method:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/class_Object_toString_method_jar</output-path>
+    <root id="archive" name="class Object toString method.jar">
+      <element id="module-output" name="class Object toString method" />
+    </root>
+  </artifact>
+</component>

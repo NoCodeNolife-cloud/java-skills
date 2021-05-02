@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Character class:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Character_class_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Character class.jar">
+        <element id="module-output" name="Character class" />
+      </element>
+    </root>
+  </artifact>
+</component>
