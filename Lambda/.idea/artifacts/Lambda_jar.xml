@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Lambda:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lambda_jar</output-path>
+    <root id="archive" name="Lambda.jar">
+      <element id="module-output" name="Lambda" />
+    </root>
+  </artifact>
+</component>

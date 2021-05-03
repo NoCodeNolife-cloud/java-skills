@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Method reference:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Method_reference_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Method reference.jar">
+        <element id="module-output" name="Method reference" />
+      </element>
+    </root>
+  </artifact>
+</component>
