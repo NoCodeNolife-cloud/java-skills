@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Throwable:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Throwable_jar</output-path>
+    <root id="archive" name="Throwable.jar">
+      <element id="module-output" name="Throwable" />
+    </root>
+  </artifact>
+</component>

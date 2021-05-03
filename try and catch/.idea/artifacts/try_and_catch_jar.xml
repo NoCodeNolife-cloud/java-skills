@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="try and catch:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/try_and_catch_jar</output-path>
+    <root id="archive" name="try and catch.jar">
+      <element id="module-output" name="try and catch" />
+    </root>
+  </artifact>
+</component>
