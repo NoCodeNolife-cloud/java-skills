@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Traverse the HashMap:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Traverse_the_HashMap_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Traverse the HashMap.jar">
+        <element id="module-output" name="Traverse the HashMap" />
+      </element>
+    </root>
+  </artifact>
+</component>
