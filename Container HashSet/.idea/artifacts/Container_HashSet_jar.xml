@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Container HashSet:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Container_HashSet_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Container HashSet.jar">
+        <element id="module-output" name="Container HashSet" />
+      </element>
+    </root>
+  </artifact>
+</component>
