@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Container HashMap:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Container_HashMap_jar</output-path>
+    <root id="archive" name="Container HashMap.jar">
+      <element id="module-output" name="Container HashMap" />
+    </root>
+  </artifact>
+</component>

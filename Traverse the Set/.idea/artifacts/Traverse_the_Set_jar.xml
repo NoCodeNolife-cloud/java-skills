@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Traverse the Set:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Traverse_the_Set_jar</output-path>
+    <root id="archive" name="Traverse the Set.jar">
+      <element id="module-output" name="Traverse the Set" />
+    </root>
+  </artifact>
+</component>
