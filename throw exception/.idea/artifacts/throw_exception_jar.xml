@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="throw exception:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/throw_exception_jar</output-path>
+    <root id="root">
+      <element id="archive" name="throw exception.jar">
+        <element id="module-output" name="throw exception" />
+      </element>
+    </root>
+  </artifact>
+</component>
