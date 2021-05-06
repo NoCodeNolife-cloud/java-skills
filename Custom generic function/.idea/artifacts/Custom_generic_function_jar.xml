@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Custom generic function:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Custom_generic_function_jar</output-path>
+    <root id="archive" name="Custom generic function.jar">
+      <element id="module-output" name="Custom generic function" />
+    </root>
+  </artifact>
+</component>

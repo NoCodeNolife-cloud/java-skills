@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Custom generic class:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Custom_generic_class_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Custom generic class.jar">
+        <element id="module-output" name="Custom generic class" />
+      </element>
+    </root>
+  </artifact>
+</component>
