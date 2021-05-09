@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Get the main thread:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Get_the_main_thread_jar</output-path>
+    <root id="archive" name="Get the main thread.jar">
+      <element id="module-output" name="Get the main thread" />
+    </root>
+  </artifact>
+</component>

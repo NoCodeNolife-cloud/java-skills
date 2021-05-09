@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Byte stream to character stream:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Byte_stream_to_character_stream_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Byte stream to character stream.jar">
+        <element id="module-output" name="Byte stream to character stream" />
+      </element>
+    </root>
+  </artifact>
+</component>
