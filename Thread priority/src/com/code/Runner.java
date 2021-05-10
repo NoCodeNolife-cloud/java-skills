@@ -5,7 +5,6 @@ public class Runner implements Runnable {
     public void run() {
         for (int i = 0; i < 10; ++i) {
 
-            System.out.print(Thread.currentThread().getName() + "  ");
             System.out.printf("第 %d次执行 - %s\n", i, Thread.currentThread().getName());
             try {
                 long sleepTime = (long) (1000 * Math.random());

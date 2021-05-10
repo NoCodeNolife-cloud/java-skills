@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Thread Lambda:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Thread_Lambda_jar</output-path>
+    <root id="archive" name="Thread Lambda.jar">
+      <element id="module-output" name="Thread Lambda" />
+    </root>
+  </artifact>
+</component>

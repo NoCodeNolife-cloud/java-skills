@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Inner class handles events:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Inner_class_handles_events_jar</output-path>
+    <root id="archive" name="Inner class handles events.jar">
+      <element id="module-output" name="Inner class handles events" />
+    </root>
+  </artifact>
+</component>

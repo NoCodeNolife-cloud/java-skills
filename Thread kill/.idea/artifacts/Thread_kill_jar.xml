@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Thread kill:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Thread_kill_jar</output-path>
+    <root id="archive" name="Thread kill.jar">
+      <element id="module-output" name="Thread kill" />
+    </root>
+  </artifact>
+</component>

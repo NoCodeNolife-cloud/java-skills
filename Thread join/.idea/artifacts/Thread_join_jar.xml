@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Thread join:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Thread_join_jar</output-path>
+    <root id="archive" name="Thread join.jar">
+      <element id="module-output" name="Thread join" />
+    </root>
+  </artifact>
+</component>
