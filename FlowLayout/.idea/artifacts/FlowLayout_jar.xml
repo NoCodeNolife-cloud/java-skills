@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FlowLayout:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FlowLayout_jar</output-path>
+    <root id="archive" name="FlowLayout.jar">
+      <element id="module-output" name="FlowLayout" />
+    </root>
+  </artifact>
+</component>

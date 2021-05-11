@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Layout nesting:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Layout_nesting_jar</output-path>
+    <root id="archive" name="Layout nesting.jar">
+      <element id="module-output" name="Layout nesting" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="No layout manager is used:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/No_layout_manager_is_used_jar</output-path>
+    <root id="archive" name="No layout manager is used.jar">
+      <element id="module-output" name="No layout manager is used" />
+    </root>
+  </artifact>
+</component>
