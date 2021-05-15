@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Command line argument:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Command_line_argument_jar</output-path>
+    <root id="archive" name="Command line argument.jar">
+      <element id="module-output" name="Command line argument" />
+    </root>
+  </artifact>
+</component>

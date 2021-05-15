@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="this and constructor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/this_and_constructor_jar</output-path>
+    <root id="archive" name="this and constructor.jar">
+      <element id="module-output" name="this and constructor" />
+    </root>
+  </artifact>
+</component>

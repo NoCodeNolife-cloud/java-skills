@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Pass by value:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Pass_by_value_jar</output-path>
+    <root id="archive" name="Pass by value.jar">
+      <element id="module-output" name="Pass by value" />
+    </root>
+  </artifact>
+</component>

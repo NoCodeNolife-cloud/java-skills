@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Static code block:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Static_code_block_jar</output-path>
+    <root id="archive" name="Static code block.jar">
+      <element id="module-output" name="Static code block" />
+    </root>
+  </artifact>
+</component>
