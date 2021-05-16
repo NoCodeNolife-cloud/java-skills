@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Super member variable:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Super_member_variable_jar</output-path>
+    <root id="archive" name="Super member variable.jar">
+      <element id="module-output" name="Super member variable" />
+    </root>
+  </artifact>
+</component>
