@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="final class and final method:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/final_class_and_final_method_jar</output-path>
+    <root id="archive" name="final class and final method.jar">
+      <element id="module-output" name="final class and final method" />
+    </root>
+  </artifact>
+</component>

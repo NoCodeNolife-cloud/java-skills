@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Array of  String:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Array_of__String_jar</output-path>
+    <root id="archive" name="Array of  String.jar">
+      <element id="module-output" name="Array of  String" />
+    </root>
+  </artifact>
+</component>

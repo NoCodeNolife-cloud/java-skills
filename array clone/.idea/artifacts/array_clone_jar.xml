@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="array clone:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/array_clone_jar</output-path>
+    <root id="archive" name="array clone.jar">
+      <element id="module-output" name="array clone" />
+    </root>
+  </artifact>
+</component>

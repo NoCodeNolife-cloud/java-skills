@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Member inner class:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Member_inner_class_jar</output-path>
+    <root id="archive" name="Member inner class.jar">
+      <element id="module-output" name="Member inner class" />
+    </root>
+  </artifact>
+</component>

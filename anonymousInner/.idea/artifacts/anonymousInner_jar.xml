@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="anonymousInner:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/anonymousInner_jar</output-path>
+    <root id="archive" name="anonymousInner.jar">
+      <element id="module-output" name="anonymousInner" />
+    </root>
+  </artifact>
+</component>
