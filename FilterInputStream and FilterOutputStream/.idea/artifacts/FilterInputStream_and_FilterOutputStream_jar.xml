@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FilterInputStream and FilterOutputStream:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FilterInputStream_and_FilterOutputStream_jar</output-path>
+    <root id="archive" name="FilterInputStream and FilterOutputStream.jar">
+      <element id="module-output" name="FilterInputStream and FilterOutputStream" />
+    </root>
+  </artifact>
+</component>

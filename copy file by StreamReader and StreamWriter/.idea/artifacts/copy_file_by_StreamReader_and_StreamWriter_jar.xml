@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="copy file by StreamReader and StreamWriter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/copy_file_by_StreamReader_and_StreamWriter_jar</output-path>
+    <root id="archive" name="copy file by StreamReader and StreamWriter.jar">
+      <element id="module-output" name="copy file by StreamReader and StreamWriter" />
+    </root>
+  </artifact>
+</component>

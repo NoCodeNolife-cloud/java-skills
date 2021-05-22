@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Nested exception:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Nested_exception_jar</output-path>
+    <root id="archive" name="Nested exception.jar">
+      <element id="module-output" name="Nested exception" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PipedInputStream  and PipedOutputStream:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PipedInputStream__and_PipedOutputStream_jar</output-path>
+    <root id="archive" name="PipedInputStream  and PipedOutputStream.jar">
+      <element id="module-output" name="PipedInputStream  and PipedOutputStream" />
+    </root>
+  </artifact>
+</component>
