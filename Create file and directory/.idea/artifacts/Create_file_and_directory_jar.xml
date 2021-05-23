@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Create file and directory:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Create_file_and_directory_jar</output-path>
+    <root id="archive" name="Create file and directory.jar">
+      <element id="module-output" name="Create file and directory" />
+    </root>
+  </artifact>
+</component>

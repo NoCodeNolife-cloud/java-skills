@@ -10,7 +10,7 @@ public class Main {
 
         Thread t1 = new Thread(() -> {
             System.out.println("ThreadA 开始...");
-            ;
+
             for (int i = 0; i < 2; ++i) {
                 System.out.println("ThreadA 执行...");
                 value++;
