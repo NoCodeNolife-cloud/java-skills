@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Generic method:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Generic_method_jar</output-path>
+    <root id="archive" name="Generic method.jar">
+      <element id="module-output" name="Generic method" />
+    </root>
+  </artifact>
+</component>

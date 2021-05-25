@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Generic bounded types:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Generic_bounded_types_jar</output-path>
+    <root id="archive" name="Generic bounded types.jar">
+      <element id="module-output" name="Generic bounded types" />
+    </root>
+  </artifact>
+</component>

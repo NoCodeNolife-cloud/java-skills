@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="A generic interface:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/A_generic_interface_jar</output-path>
+    <root id="archive" name="A generic interface.jar">
+      <element id="module-output" name="A generic interface" />
+    </root>
+  </artifact>
+</component>
