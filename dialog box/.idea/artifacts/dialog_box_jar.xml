@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="dialog box:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dialog_box_jar</output-path>
+    <root id="archive" name="dialog box.jar">
+      <element id="module-output" name="dialog box" />
+    </root>
+  </artifact>
+</component>
