@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5cd2bede-4a0f-4add-b708-318505e1b1dc" name="变更" comment="" />
+    <list default="true" id="f473669f-1e49-434d-b6f3-31cb7915cba8" name="变更" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +10,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="20RcVdT6x0tgXGWSBQRbnVC8fQk" />
+  <component name="ProjectId" id="20ReicPDWXjqLhAbqj70ZAwCMpp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -74,11 +74,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.NoCodeNoLife.Main" />
-      <module name="TreeSet tailSet" />
+      <module name="LinkedList add and remove" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -95,13 +96,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="5cd2bede-4a0f-4add-b708-318505e1b1dc" name="变更" comment="" />
-      <created>1636010866038</created>
+      <changelist id="f473669f-1e49-434d-b6f3-31cb7915cba8" name="变更" comment="" />
+      <created>1636011956243</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1636010866038</updated>
-      <workItem from="1636010867187" duration="102000" />
-      <workItem from="1636011615253" duration="36000" />
+      <updated>1636011956243</updated>
+      <workItem from="1636011957545" duration="1129000" />
+      <workItem from="1636013198785" duration="5000" />
     </task>
     <servers />
   </component>
