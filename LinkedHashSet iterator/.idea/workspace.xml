@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7bd52d9-b294-41fe-95b8-e1d3ffe5ba3b" name="变更" comment="" />
+    <list default="true" id="fc34ed9c-79d5-4ac4-bf78-1827946556e9" name="变更" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +10,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="20SDY6L9soIBdS0t6Ovy9hRFjX7" />
+  <component name="ProjectId" id="20TrdbrP4An6JaMr3tfj1jFtNdA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -79,10 +79,23 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.NoCodeNoLife.Main" />
-      <module name="HashSet isEmpty" />
+      <module name="LinkedHashSet iterator" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="LinkedHashSet iterator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="LinkedHashSet iterator" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,13 +109,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="e7bd52d9-b294-41fe-95b8-e1d3ffe5ba3b" name="变更" comment="" />
-      <created>1636029140042</created>
+      <changelist id="fc34ed9c-79d5-4ac4-bf78-1827946556e9" name="变更" comment="" />
+      <created>1636079507387</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1636029140042</updated>
-      <workItem from="1636029141279" duration="41000" />
-      <workItem from="1636079528926" duration="7000" />
+      <updated>1636079507387</updated>
+      <workItem from="1636079508925" duration="121000" />
     </task>
     <servers />
   </component>
