@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="304b20bf-4751-4178-a570-236836747d8a" name="变更" comment="" />
+    <list default="true" id="5da4b1a3-7738-448a-892a-84998c2de42b" name="变更" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="20TtKzRAnUgC1kiRk5ZWxyIcF1i" />
+  <component name="ProjectId" id="20UbKlwh3NrZrqgfJ6MaHFb1tGz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
@@ -34,7 +34,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.NoCodeNoLife.Main" />
-      <module name="LinkedHashSet size" />
+      <module name="IdentityHashMap entrySet iterator" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.NoCodeNoLife.*" />
@@ -54,12 +54,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="304b20bf-4751-4178-a570-236836747d8a" name="变更" comment="" />
-      <created>1636080345859</created>
+      <changelist id="5da4b1a3-7738-448a-892a-84998c2de42b" name="变更" comment="" />
+      <created>1636102052404</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1636080345859</updated>
-      <workItem from="1636080346990" duration="211000" />
+      <updated>1636102052404</updated>
+      <workItem from="1636102054638" duration="201000" />
     </task>
     <servers />
   </component>
