@@ -1,24 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c9c13eb-4d2e-4b30-9011-ce0b2bc1e546" name="变更" comment="" />
+    <list default="true" id="304b20bf-4751-4178-a570-236836747d8a" name="变更" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectId" id="20TruzupZ0rV0TZZIdDxfiVgdSH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="20TtKzRAnUgC1kiRk5ZWxyIcF1i" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,35 +20,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="MTHome" />
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.NoCodeNoLife.Main" />
-      <module name="LinkedHashSet clone" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.NoCodeNoLife.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="应用程序.Main" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="9c9c13eb-4d2e-4b30-9011-ce0b2bc1e546" name="变更" comment="" />
-      <created>1636079645266</created>
+      <changelist id="304b20bf-4751-4178-a570-236836747d8a" name="变更" comment="" />
+      <created>1636080345859</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1636079645266</updated>
-      <workItem from="1636079646410" duration="294000" />
+      <updated>1636080345859</updated>
     </task>
     <servers />
   </component>
