@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cdae6d4-1302-4b69-a5d3-adeb14ff9bdd" name="变更" comment="" />
+    <list default="true" id="d082f6d8-42fd-4b63-b2ae-60cc584bc9ed" name="变更" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +10,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="20aVqBItraFbpqpFhDVHHiV51Ht" />
+  <component name="ProjectId" id="20d5tPJ3Q1HoiRIgaCwDnSgvHQN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -79,7 +79,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.NoCodeNoLife.Main" />
-      <module name="WeakHashMap entrySet and keySet and values" />
+      <module name="LinkedHashMap clear and size and isEmpty" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -96,13 +96,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="2cdae6d4-1302-4b69-a5d3-adeb14ff9bdd" name="变更" comment="" />
-      <created>1636282874082</created>
+      <changelist id="d082f6d8-42fd-4b63-b2ae-60cc584bc9ed" name="变更" comment="" />
+      <created>1636361837703</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1636282874082</updated>
-      <workItem from="1636282875375" duration="1216000" />
-      <workItem from="1636359527771" duration="7000" />
+      <updated>1636361837703</updated>
+      <workItem from="1636361839406" duration="89000" />
     </task>
     <servers />
   </component>
