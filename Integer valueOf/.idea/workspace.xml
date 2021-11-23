@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16ea61b8-bde5-4f54-bbaf-1105bb67b5c1" name="变更" comment="" />
+    <list default="true" id="f048253e-5f92-415e-8d72-b91f75bf3ace" name="变更" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="21DbseqZfx4OFZ0VbeVVPXIOpdg" />
+  <component name="ProjectId" id="21IyBNHd7LAVoRq7BBHk8b5ndJb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -83,23 +76,10 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="应用程序.FingerServer">
-    <configuration name="FingerServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.NoCodeNoLife.FingerServer" />
-      <module name="FingerServer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.NoCodeNoLife.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.NoCodeNoLife.Main" />
-      <module name="FingerServer" />
+      <module name="Integer valueOf" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -107,26 +87,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="应用程序.Main" />
-      <item itemvalue="应用程序.FingerServer" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.FingerServer" />
+        <item itemvalue="应用程序.Main" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="16ea61b8-bde5-4f54-bbaf-1105bb67b5c1" name="变更" comment="" />
-      <created>1637478817710</created>
+      <changelist id="f048253e-5f92-415e-8d72-b91f75bf3ace" name="变更" comment="" />
+      <created>1637642760497</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1637478817710</updated>
-      <workItem from="1637478820139" duration="1407000" />
-      <workItem from="1637671778498" duration="1000" />
+      <updated>1637642760497</updated>
+      <workItem from="1637642761840" duration="42000" />
+      <workItem from="1637642832870" duration="68000" />
     </task>
     <servers />
   </component>
