@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aca37bd8-1106-46fe-8ffa-84d24fc57bbd" name="变更" comment="" />
+    <list default="true" id="45cfb1d2-4d51-436f-bf55-20bc6c5e989f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="21JtXn07uAfLls0OLjVNlgdznQy" />
+  <component name="ProjectId" id="21l1shcJZTbyEqbCCVGPWZQFYIo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -81,14 +74,12 @@
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.NoCodeNoLife.Main" />
-      <module name="Static statement block" />
+      <module name="URL" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -96,18 +87,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="默认任务">
-      <changelist id="aca37bd8-1106-46fe-8ffa-84d24fc57bbd" name="变更" comment="" />
-      <created>1637671060548</created>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45cfb1d2-4d51-436f-bf55-20bc6c5e989f" name="Changes" comment="" />
+      <created>1638501068745</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1637671060548</updated>
-      <workItem from="1637671061782" duration="673000" />
-      <workItem from="1638341686349" duration="130000" />
-      <workItem from="1638372725144" duration="219000" />
+      <updated>1638501068745</updated>
+      <workItem from="1638501069999" duration="593000" />
     </task>
     <servers />
   </component>
