@@ -24,6 +24,7 @@ public class Main {
 
         // 重新测试now和date日期
         display(now,date);
+
     }
 
     public static void display(Date _now,Date _date){
