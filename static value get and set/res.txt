@@ -1,0 +1,8 @@
+the static final value is 10
+the static value is 2
+the static final value is 10
+the static value is 2
+the static final value is 10
+the static value is 2
+the static final value is 10
+the static value is 2
