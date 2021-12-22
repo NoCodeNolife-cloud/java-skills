@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f048253e-5f92-415e-8d72-b91f75bf3ace" name="变更" comment="变更" />
+    <list default="true" id="e085f6c6-40bf-4316-adaf-63b4be4b1946" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +10,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="21IyBNHd7LAVoRq7BBHk8b5ndJb" />
+  <component name="ProjectId" id="22dHpEGozAVH83LDpxgMo72vw5Y" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -71,19 +71,14 @@
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
-    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.NoCodeNoLife.Main" />
-      <module name="Integer valueOf" />
+      <module name="variable number of parameters" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -97,17 +92,15 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="默认任务">
-      <changelist id="f048253e-5f92-415e-8d72-b91f75bf3ace" name="变更" comment="" />
-      <created>1637642760497</created>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e085f6c6-40bf-4316-adaf-63b4be4b1946" name="Changes" comment="" />
+      <created>1640160725591</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1637642760497</updated>
-      <workItem from="1637642761840" duration="42000" />
-      <workItem from="1637642832870" duration="68000" />
-      <workItem from="1640160072949" duration="626000" />
+      <updated>1640160725591</updated>
+      <workItem from="1640160727164" duration="2495000" />
     </task>
     <servers />
   </component>
