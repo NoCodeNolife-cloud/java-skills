@@ -16,10 +16,19 @@ public class Main {
             list.add(i);
         }
         System.out.println(list);
+        // get listIterator
         ListIterator<Integer> listIterator = list.listIterator();
-        while (!listIterator.hasNext()) {
+        // hastNext
+        while (listIterator.hasNext()) {
+            // next
             Integer itm = listIterator.next();
-            
+            if (itm % 2 == 0) {
+                // remove
+                listIterator.remove();
+                // add
+                listIterator.add(100);
+            }
         }
+        System.out.println(list);
     }
 }
