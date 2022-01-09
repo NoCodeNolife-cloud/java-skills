@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f50dc5b7-dd2a-477f-9d9b-844272ae6fe3" name="变更" comment="" />
+    <list default="true" id="f50dc5b7-dd2a-477f-9d9b-844272ae6fe3" name="变更" comment="变更" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +81,10 @@
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
@@ -112,6 +115,8 @@
       <workItem from="1637987724050" duration="19000" />
       <workItem from="1637988795949" duration="489000" />
       <workItem from="1637996564375" duration="88000" />
+      <workItem from="1641649045708" duration="102000" />
+      <workItem from="1641649192759" duration="33000" />
     </task>
     <servers />
   </component>

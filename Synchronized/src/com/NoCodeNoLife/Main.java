@@ -1,15 +1,35 @@
 package com.NoCodeNoLife;
 
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
+public class Main implements Runnable {
 
-public class Main {
+    Timer timer = new Timer();
 
     public static void main(String[] args) {
+        Main t = new Main();
+        Thread t1 = new Thread(t);
+        Thread t2 = new Thread(t);
+        t1.setName("t1");
+        t2.setName("t2");
+        t1.start();
+        t2.start();
+    }
 
-        SynchronizedExample synchronizedExample = new SynchronizedExample();
-        ExecutorService executorService = Executors.newCachedThreadPool();
-        executorService.execute(synchronizedExample::func1);
-        executorService.execute(synchronizedExample::func1);
+    public void run() {
+        timer.add(Thread.currentThread().getName());
+    }
+}
+
+class Timer {
+
+    private static int num = 0;
+
+    public static synchronized void add(String name) {
+        num++;
+        try {
+            Thread.sleep(1);
+        } catch (InterruptedException e) {
+
+        }
+        System.out.println(name + ":你是第" + num + "使用timer的线程");
     }
 }
