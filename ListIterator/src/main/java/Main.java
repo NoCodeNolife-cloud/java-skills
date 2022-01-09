@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.ListIterator;
+import java.util.Random;
 
 /**
  * ProjectName: ListIterator
@@ -11,9 +12,10 @@ import java.util.ListIterator;
 public class Main {
 
     public static void main(String[] args) {
+        Random random = new Random();
         List<Integer> list = new ArrayList<Integer>();
         for (int i = 0; i < 22; i++) {
-            list.add(i);
+            list.add(random.nextInt(100));
         }
         System.out.println(list);
         // get listIterator
@@ -26,9 +28,17 @@ public class Main {
                 // remove
                 listIterator.remove();
                 // add
-                listIterator.add(100);
+                listIterator.add(0);
+            }else{
+                // set
+                listIterator.set(1);
             }
         }
+        // previousIndex
+        System.out.println(listIterator.previousIndex());
+        // previous
+        System.out.println(listIterator.previous());
+        // toString
         System.out.println(list);
     }
 }

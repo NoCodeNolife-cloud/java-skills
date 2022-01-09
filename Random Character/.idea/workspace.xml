@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efdefdde-93b3-4c3f-98c1-c1a13f8faab5" name="Changes" comment="" />
+    <list default="true" id="8ab10cf9-efcb-468d-861b-fc39c6a0fdf3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="23RXTicSeX9SLuGY0R1Y0phNm7U" />
+  <component name="ProjectId" id="23S6f5gXbXh1khXEDBJFQT78MSj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
@@ -40,35 +40,32 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="ListIterator.main" />
+    <configuration name="CharacterRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharacterRandom" />
+      <module name="Random_Character.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.CharacterRandom" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="efdefdde-93b3-4c3f-98c1-c1a13f8faab5" name="Changes" comment="" />
-      <created>1641697883839</created>
+      <changelist id="8ab10cf9-efcb-468d-861b-fc39c6a0fdf3" name="Changes" comment="" />
+      <created>1641715241626</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1641697883839</updated>
-      <workItem from="1641697887331" duration="3967000" />
+      <updated>1641715241626</updated>
+      <workItem from="1641715244593" duration="299000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ListIterator$Main.ic" NAME="Main Coverage Results" MODIFIED="1641698964620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
