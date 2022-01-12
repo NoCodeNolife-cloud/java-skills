@@ -9,6 +9,7 @@ import java.util.concurrent.BlockingQueue;
  */
 public class ProducerConsumer {
 
+    // blockingQueue
     private static BlockingQueue<String> queue = new ArrayBlockingQueue<>(5);
 
     /**
@@ -18,6 +19,7 @@ public class ProducerConsumer {
         @Override
         public void run() {
             try {
+                // put
                 queue.put("product");// put into queue name as "product"
             } catch (InterruptedException e) {
                 e.printStackTrace();
@@ -33,6 +35,7 @@ public class ProducerConsumer {
         @Override
         public void run() {
             try {
+                // take
                 String product = queue.take();// take from queue
             } catch (InterruptedException e) {
                 e.printStackTrace();

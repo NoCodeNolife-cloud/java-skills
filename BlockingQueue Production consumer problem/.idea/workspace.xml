@@ -81,7 +81,11 @@
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RunManager">
     <configuration name="ProducerConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -112,6 +116,8 @@
       <option name="presentableId" value="Default" />
       <updated>1638077142328</updated>
       <workItem from="1638077143682" duration="1799000" />
+      <workItem from="1641908044418" duration="778000" />
+      <workItem from="1641962970442" duration="81000" />
     </task>
     <servers />
   </component>
