@@ -1,15 +1,25 @@
 package com.NoCodeNoLife;
 
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.PrintWriter;
+
 public class Main {
 
-    public static void main(String[] args) {
+	public static void main(String[] args) throws IOException {
 
-        char[] chars = {'h', 'e', 'l', 'l', 'o', ' ', 'w', 'o', 'r', 'l', 'd', ' ', 'y', 'o', 'u', ' ', 'a', 'r', 'e', ' ', 'm', 'y', ' ', 's', 'u', 'n', 's', 'h', 'i', 'n', 'e'};
-        String str = new String(chars);
-        System.out.println("the origin str is " + str);
-        String[] res = str.split(" ");
-        for (String item : res) {
-            System.out.println(item + " " + item.length());
-        }
-    }
+		File file = new File("./out.txt");
+		if (!file.exists()) {
+			file.createNewFile();
+		}
+		PrintWriter printWriter = new PrintWriter(file);
+		String resource = "this|is|the|information";
+		String[] strings = resource.split("\\|");
+		for (int i = 0; i < strings.length; i++) {
+			printWriter.println(strings[i]);
+			printWriter.flush();
+		}
+		printWriter.close();
+	}
 }
