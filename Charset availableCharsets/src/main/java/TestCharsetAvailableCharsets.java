@@ -1,5 +1,4 @@
 import java.io.File;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.nio.charset.Charset;
@@ -15,7 +14,7 @@ import java.util.logging.Logger;
  */
 public class TestCharsetAvailableCharsets {
 
-	private static Logger log = Logger.getLogger("TestCharsetAvailableCharsets");
+	private static Logger log = Logger.getLogger("TestCharsetAvailableCharsets.java");
 
 	public static void main(String[] args) throws IOException {
 		log.setLevel(Level.ALL);
@@ -30,13 +29,14 @@ public class TestCharsetAvailableCharsets {
 			log.info("file exist");
 		}
 
-		FileWriter filewriter = new FileWriter(file, true);
-		PrintWriter printWriter = new PrintWriter(filewriter);
+		PrintWriter printWriter = new PrintWriter(file);
 		Map<String, Charset> charset = Charset.availableCharsets();
 		for (String name : charset.keySet()) {
 			printWriter.println(name);
 			printWriter.flush();
 		}
 		printWriter.close();
+
+		log.info("done");
 	}
 }

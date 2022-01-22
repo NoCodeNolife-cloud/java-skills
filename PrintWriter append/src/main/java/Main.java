@@ -1,6 +1,7 @@
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
@@ -12,11 +13,11 @@ import java.util.logging.Logger;
  */
 public class Main {
 
-	private static Logger log = Logger.getLogger("Main");
+	private static Logger log = Logger.getLogger("Main.java");
 
 	public static void main(String[] args) throws IOException {
 		log.setLevel(Level.ALL);
-		File file = new File("./src/java/resources/out.txt");
+		File file = new File("./src/main/resources/out.txt");
 		if (!file.exists()) {
 			if (file.createNewFile()) {
 				log.info("create file success");
@@ -27,8 +28,13 @@ public class Main {
 			log.info("file exist");
 		}
 
-		// append
-		FileWriter fileWriter = new FileWriter(file, true);
-		
+		for (int i = 0; i < 2; i++) {
+			// append
+			PrintWriter printWriter = new PrintWriter(new FileWriter(file, true));
+			for (int j = 0; j < 10; j++) {
+				printWriter.print(j);
+			}
+			printWriter.close();
+		}
 	}
 }
