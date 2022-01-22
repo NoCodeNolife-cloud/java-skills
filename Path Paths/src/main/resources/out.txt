@@ -1,0 +1,6 @@
+file name: test.txt
+parent path: C:\file\data
+name of count(0) is: file
+name of count(1) is: data
+name of count(2) is: test.txt
+root: C:\

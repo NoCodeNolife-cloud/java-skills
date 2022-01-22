@@ -1,0 +1,4 @@
+out.txt	.\src\main\resources\out.txt
+run.exe	.\src\main\resources\run.exe
+text.txt	.\src\main\resources\text.txt
+text1.txt	.\src\main\resources\text1.txt
