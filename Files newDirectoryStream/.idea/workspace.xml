@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88cf866c-de00-4658-9520-5afdfd4130a8" name="Changes" comment="" />
+    <list default="true" id="84ae7925-0638-4941-bfd6-8e0f3797f997" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CodeInsightWorkspaceSettings">
-    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -28,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="240U0s8wEe83UHvcYvYI52XlTA0" />
+  <component name="ProjectId" id="246VZJD8UXEvbhDxxOydWBafFj3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
@@ -39,33 +36,37 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/gradle" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\programe\GitHub-project-warehouse-manager\java-skills\Files newDirectoryStream\src\main\resources" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration name="TestCharsetAvailableCharsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestCharsetAvailableCharsets" />
-      <module name="Charset_availableCharsets.main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Files_newDirectoryStream.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestCharsetAvailableCharsets" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="88cf866c-de00-4658-9520-5afdfd4130a8" name="Changes" comment="" />
-      <created>1642766779348</created>
+      <changelist id="84ae7925-0638-4941-bfd6-8e0f3797f997" name="Changes" comment="" />
+      <created>1642951079781</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1642766779348</updated>
-      <workItem from="1642766780831" duration="4697000" />
-      <workItem from="1642942215780" duration="2000" />
+      <updated>1642951079781</updated>
+      <workItem from="1642951081475" duration="691000" />
     </task>
     <servers />
   </component>
