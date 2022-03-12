@@ -1,0 +1,20 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+    <bean id="exampleBean" class="NullExample">
+        <!--使用null 标签注入 Null 值-->
+        <property name="propertyNull">
+            <null/>
+        </property>
+        <!--使用空参数注入空字符串-->
+        <property name="propertyEmpty" value=""></property>
+        <!--通过转义注入包含特殊符号的字面量-->
+        <property name="propertyLiteral" value="&lt;C语言课程&gt;"></property>
+        <!--通过使用短字符串 <![CDATA[]]> 包含特殊符号的字面量-->
+        <property name="cdata">
+            <value><![CDATA[<c.biancheng.net>]]></value>
+        </property>
+    </bean>
+</beans>

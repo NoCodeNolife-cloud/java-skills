@@ -1,0 +1,8 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:c="http://www.springframework.org/schema/c"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+    <bean id="employee" class="C.CEmployee" c:empName="小胡" c:dept-ref="dept" c:empNo="999"></bean>
+    <bean id="dept" class="C.CDept" c:deptNo="2222" c:deptName="测试部"></bean>
+</beans>
