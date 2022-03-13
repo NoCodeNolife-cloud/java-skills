@@ -1,17 +1,23 @@
+import AnnotationAutowiring.UserController;
+import AutoWiring.Employee;
+import BeanPostProcessor.HelloWorld;
 import C.CEmployee;
 import CascadingAttributeAssignment.ExampleBean;
 import Collections.JavaCollection;
 import Constructor.ContructorStudent;
 import InnerConstructor.InnerConstructorEmployee;
 import InnerSetter.InnerSetterEmployee;
+import LifeCycleBean.LifeCycleBean;
 import P.PEmployee;
 import PrototypeBean.PrototypeBean;
 import RefCollections.RefJavaCollection;
 import Setter.SetterStudent;
 import Singleton.SingletonBean;
+import SpringBeanInheritance.Dog;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.AbstractApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
@@ -109,5 +115,42 @@ public class MainApp {
 		PrototypeBean prototypeBean2 = prototypecontext.getBean("prototypeBean", PrototypeBean.class);
 		System.out.println(prototypeBean);
 		System.out.println(prototypeBean2);
+
+		//获取 ClassPathXmlApplicationContext 容器
+		ClassPathXmlApplicationContext lifecyclecontext = new ClassPathXmlApplicationContext("LifeCycleBeans.xml");
+		LifeCycleBean lifeCycleBean = lifecyclecontext.getBean("lifeCycleBean", LifeCycleBean.class);
+		LOGGER.info(lifeCycleBean);
+		//手动销毁 Bean
+		lifecyclecontext.close();
+
+		AbstractApplicationContext postprocessorcontext = new ClassPathXmlApplicationContext("BeanPostProcessorBeans.xml");
+		HelloWorld obj = (HelloWorld) postprocessorcontext.getBean("helloWorld");
+		obj.getMessage();
+		postprocessorcontext.registerShutdownHook();
+
+		//获取 ClassPathXmlApplicationContext 容器
+		ApplicationContext springbeaninheriancecontext = new ClassPathXmlApplicationContext("SpringBeanInheritance.xml");
+		Dog dog = springbeaninheriancecontext.getBean("dog", Dog.class);
+		System.out.println(dog);
+
+		//byName
+		ApplicationContext bynameapplicationContext = new ClassPathXmlApplicationContext("autowire/byName.xml");
+		Employee bynameemployee = bynameapplicationContext.getBean("employee", Employee.class);
+		System.out.println(bynameemployee);
+
+		//byName
+		ApplicationContext bytypeapplicationContext = new ClassPathXmlApplicationContext("autowire/byType.xml");
+		Employee bytypeemployee = bytypeapplicationContext.getBean("employee", Employee.class);
+		System.out.println(bytypeemployee);
+
+		//byconstructor
+		ApplicationContext byconstructorContext = new ClassPathXmlApplicationContext("autowire/constructor.xml");
+		Employee byconstructoremployee = byconstructorContext.getBean("employee", Employee.class);
+		System.out.println(byconstructoremployee);
+
+		//byconstructor
+		ApplicationContext annotationautowiringContext = new ClassPathXmlApplicationContext("AnnotationAutowiringBeans.xml");
+		UserController annotationautowiringusercontroller = annotationautowiringContext.getBean("userController", UserController.class);
+		annotationautowiringusercontroller.doStr();
 	}
 }

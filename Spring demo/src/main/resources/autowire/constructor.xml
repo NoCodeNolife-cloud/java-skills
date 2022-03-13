@@ -1,0 +1,15 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+    <bean id="dept2" class="AutoWiring.Dept">
+        <constructor-arg name="deptNo" value="1"></constructor-arg>
+        <constructor-arg name="deptName" value="技术部"></constructor-arg>
+    </bean>
+
+    <bean id="employee" class="AutoWiring.Employee" autowire="constructor">
+        <constructor-arg name="empNo" value="002"></constructor-arg>
+        <constructor-arg name="empName" value="小郭"></constructor-arg>
+    </bean>
+</beans>
