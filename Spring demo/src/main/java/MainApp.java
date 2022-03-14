@@ -1,3 +1,4 @@
+import AOP.UserDao;
 import AnnotationAutowiring.UserController;
 import AutoWiring.Employee;
 import BeanPostProcessor.HelloWorld;
@@ -9,6 +10,7 @@ import InnerConstructor.InnerConstructorEmployee;
 import InnerSetter.InnerSetterEmployee;
 import LifeCycleBean.LifeCycleBean;
 import P.PEmployee;
+import PointcutAdvisorAOP.OrderDao;
 import PrototypeBean.PrototypeBean;
 import RefCollections.RefJavaCollection;
 import Setter.SetterStudent;
@@ -152,5 +154,26 @@ public class MainApp {
 		ApplicationContext annotationautowiringContext = new ClassPathXmlApplicationContext("AnnotationAutowiringBeans.xml");
 		UserController annotationautowiringusercontroller = annotationautowiringContext.getBean("userController", UserController.class);
 		annotationautowiringusercontroller.doStr();
+
+		//获取 ApplicationContext 容器
+		ApplicationContext aopcontext = new ClassPathXmlApplicationContext("AOPBeans.xml");
+		//获取代理对象
+		UserDao userDao = aopcontext.getBean("userDaoProxy", UserDao.class);
+		//调用 UserDao 中的各个方法
+		userDao.add();
+		userDao.delete();
+		userDao.get();
+		userDao.modify();
+
+		//获取 ApplicationContext 容器
+		ApplicationContext pointcutadvisorAOPcontext = new ClassPathXmlApplicationContext("PointcutAdvisorAOPBeans.xml");
+		//获取代理对象
+		OrderDao pointcutadvisorAOPorderDao = pointcutadvisorAOPcontext.getBean("orderDaoProxy", OrderDao.class);
+		//调用 OrderDao 中的各个方法
+		pointcutadvisorAOPorderDao.add();
+		pointcutadvisorAOPorderDao.adds();
+		pointcutadvisorAOPorderDao.delete();
+		pointcutadvisorAOPorderDao.get();
+		pointcutadvisorAOPorderDao.modify();
 	}
 }
