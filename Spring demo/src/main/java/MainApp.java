@@ -1,5 +1,6 @@
 import AOP.UserDao;
 import AnnotationAutowiring.UserController;
+import AspectJAnnotation.AppConfig;
 import AutoWiring.Employee;
 import BeanPostProcessor.HelloWorld;
 import C.CEmployee;
@@ -19,6 +20,7 @@ import SpringBeanInheritance.Dog;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.springframework.context.ApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.support.AbstractApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
@@ -168,12 +170,43 @@ public class MainApp {
 		//获取 ApplicationContext 容器
 		ApplicationContext pointcutadvisorAOPcontext = new ClassPathXmlApplicationContext("PointcutAdvisorAOPBeans.xml");
 		//获取代理对象
-		OrderDao pointcutadvisorAOPorderDao = pointcutadvisorAOPcontext.getBean("orderDaoProxy", OrderDao.class);
+		PointcutAdvisorAOP.OrderDao pointcutadvisorAOPorderDao = pointcutadvisorAOPcontext.getBean("orderDaoProxy", PointcutAdvisorAOP.OrderDao.class);
 		//调用 OrderDao 中的各个方法
 		pointcutadvisorAOPorderDao.add();
 		pointcutadvisorAOPorderDao.adds();
 		pointcutadvisorAOPorderDao.delete();
 		pointcutadvisorAOPorderDao.get();
 		pointcutadvisorAOPorderDao.modify();
+
+		ApplicationContext automaticproxycontext = new ClassPathXmlApplicationContext("AutomaticProxyBeans.xml");
+		//获取代理对象
+		UserDao automaticproxyuserDao = automaticproxycontext.getBean("userDao", UserDao.class);
+		//获取代理对象
+		OrderDao automaticproxyorderDao = automaticproxycontext.getBean("orderDao", OrderDao.class);
+		//调用 UserDao 中的各个方法
+		automaticproxyuserDao.add();
+		automaticproxyuserDao.delete();
+		automaticproxyuserDao.modify();
+		automaticproxyuserDao.get();
+		//调用 OrderDao 中的各个方法
+		automaticproxyorderDao.add();
+		automaticproxyorderDao.adds();
+		automaticproxyorderDao.delete();
+		automaticproxyorderDao.get();
+		automaticproxyorderDao.modify();
+
+		ApplicationContext aspectxmlcontext = new ClassPathXmlApplicationContext("AspectJXMLBeans.xml");
+		AspectJXML.OrderDao aspectxmlorderDao = aspectxmlcontext.getBean("orderDao", AspectJXML.OrderDao.class);
+		aspectxmlorderDao.add();
+		aspectxmlorderDao.delete();
+		aspectxmlorderDao.modify();
+		// aspectxmlorderDao.get();//异常处理
+
+		ApplicationContext aspectjannotationcontext = new AnnotationConfigApplicationContext(AppConfig.class);
+		AspectJAnnotation.UserDao aspectjannotationuserDao = aspectjannotationcontext.getBean("userDao", AspectJAnnotation.UserDao.class);
+		aspectjannotationuserDao.add();
+		aspectjannotationuserDao.modify();
+		aspectjannotationuserDao.delete();
+		// aspectjannotationuserDao.get();
 	}
 }
